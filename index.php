@@ -112,7 +112,7 @@
               <img src="img/projects/Paket-Aqiqah.jpg" class="card-img-top" alt="Project 1" />
               <div class="card-body">
                 <h5 class="card-title">Daftar Harga Paket</h5>
-                <p class="card-text">Mulai dari harga 1,3 Juta.</p>
+                <p class="card-text">Mulai dari harga 1,4 Juta.</p>
                 <a href="img/projects/Paket-Aqiqah.jpg" target="_blank" class="btn btn-primary">Lihat &raquo;</a>
                 <a href="img/projects/Paket-Aqiqah.jpg" target="_blank" class="btn btn-success" style="float: right" download>Download</a>
               </div>
