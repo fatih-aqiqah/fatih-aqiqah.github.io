@@ -42,7 +42,7 @@
               <a class="nav-link" href="#projects">Pricelist</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="https://fatih-aqiqah.github.io/app-karkas-daging"><blink><b>Hitung Karkas</b></blink></a>
+              <a class="nav-link" href="https://fatih-aqiqah.github.io/app-karkas-daging/index.php"><blink><b>Hitung Karkas</b></blink></a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#order">Order</a>
